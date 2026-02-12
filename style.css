@@ -176,6 +176,7 @@ footer {
         line-height: 22px;
         letter-spacing: .25px;
         margin-bottom: 30px;
+        max-width: 307px;
       }
 
       ul {
@@ -208,6 +209,8 @@ footer {
     }
 
     .contact {
+      max-width: 281px;
+      
       h2 {
         font-weight: 600;
         font-size: 18px;
